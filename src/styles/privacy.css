@@ -1,0 +1,47 @@
+
+.css
+.container {
+    font-family: 'Arial, sans-serif';
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: justify;
+}
+
+.container h1 {
+    font-size: 28px; /* Title font size */
+    font-family: inherit;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 0.5rem;
+    color: #32325d;}
+
+.container h2 {
+    color: #32325d; /* Subtitle color */
+    font-size: 24px; /* Subtitle font size */
+    font-family: inherit;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 0.5rem;
+}
+
+.container h3 {
+    font-size: 20px; /* Sub-subtitle font size */
+    font-family: inherit;
+    font-weight: 600;
+    line-height: 1.5;
+    margin-bottom: 0.5rem;
+    color: #32325d;
+}
+
+.container p {
+    margin-bottom: 15px; /* Spacing between paragraphs */
+}
+
+.container ul {
+    list-style-type: disc; /* List item style (bullet) */
+    margin-bottom: 15px; /* Spacing between lists */
+}
+
+.container li {
+    margin-bottom: 5px; /* Spacing between list items */
+}
